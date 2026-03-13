@@ -109,10 +109,10 @@ print("CGPA = ",cgpa)
 # branch
 # college
 # year
-name = "Amit"
+name = "John"
 branch = "Mechanical"
 college = "RBU"
-year = 3
+year = 2
 print("Name = ",name)
 print("Branch = ",branch)
 print("College = ",college)
@@ -122,8 +122,8 @@ print("Hello Students")
 age=21
 #More examples
 name = "Rahul"
-salary = 50000
-temperature = 36.5
+salary = 60000
+temperature = 35.5
 print(type(name))
 print(type(salary))
 print(type(temperature))
@@ -146,8 +146,8 @@ is_student = True
 print(type(is_student))
 
 #string
-name = "Aakash"
-city = "Pune"
+name = "Ajay"
+city = "Nagpur"
 course = "Python"
 print("Name:", name)
 print("City:", city)
@@ -210,4 +210,5 @@ birth_year = int(input("Enter your birth year: "))
 current_year = 2026
 age = current_year - birth_year
 print(age)
+
 
